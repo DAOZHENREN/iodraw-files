@@ -31,7 +31,7 @@
         <mxCell id="iIoS_vNWjcgUGi_bzYSv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iIoS_vNWjcgUGi_bzYSv-10" target="iIoS_vNWjcgUGi_bzYSv-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iIoS_vNWjcgUGi_bzYSv-10" value="中文医疗文本命名实体识别的应用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iIoS_vNWjcgUGi_bzYSv-10" value="中文医学文本命名实体识别的应用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iIoS_vNWjcgUGi_bzYSv-11" value="总结与展望" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
